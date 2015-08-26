@@ -1,4 +1,4 @@
-######### frontend-resources
+###### frontend-resources
 #Resources and tools for frontend development
 
 ##Coding Tools
